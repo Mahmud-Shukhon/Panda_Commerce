@@ -1,0 +1,26 @@
+/* Universal-styles */
+
+
+/* Header-styles */
+
+/* Nav-styles */
+nav{
+    display: flex;
+    flex-direction: row;
+}
+
+nav form{
+    margin-left: 56px;
+    margin-right: 56px;
+    
+}
+
+nav form input{
+    background-color: rgba(241, 241, 241, 1);
+    border-radius: 66px;
+}
+
+.nav-links{
+    display: flex;
+    justify-content: end;
+}
