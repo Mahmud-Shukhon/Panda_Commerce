@@ -11,3 +11,12 @@
                   </button>
                 </a>
               </div>
+
+
+
+              <div class="carousel-item">
+              <img src="media/images/banner-images/xbox.png" class="img-fluid d-block" alt="...">
+            </div>
+            <div class="carousel-item">
+              <img src="media/images/banner-images/headphone.png" class="img-fluid d-block" alt="...">
+            </div>

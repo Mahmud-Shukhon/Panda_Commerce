@@ -4,13 +4,13 @@
 /* Header-styles */
 
 header{
-    height: 48px;
+    height: 58px;
 }
 
 /* Nav-styles */
 
 nav{
-    width: 78%;
+    width: 73%;
 }
 
 /* Main-styles */
@@ -23,14 +23,25 @@ main{
 /* Product-Slide-Section */
 
 #product-slides{
-    height: 455px;
-    width: 78%;
-    border: black solid;
+    width: 73%;
+    border-radius: 15px;
     position: absolute;
     top: 160px;
     background-color: rgba(254, 234, 233, 1);
+    padding-left: 46px;
+    padding-right: 46px;
 }
+
 
 .pink-text{
     color: rgba(255, 19, 111, 1);
+}
+
+.pink-button{
+    width: 168px;
+    height: 52px;
+    border: none;
+    border-radius: 6px;
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    color: white;
 }
