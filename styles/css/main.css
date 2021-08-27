@@ -3,24 +3,34 @@
 
 /* Header-styles */
 
+header{
+    height: 48px;
+}
+
 /* Nav-styles */
+
 nav{
+    width: 78%;
+}
+
+/* Main-styles */
+
+main{
     display: flex;
-    flex-direction: row;
+    justify-content: center;
 }
 
-nav form{
-    margin-left: 56px;
-    margin-right: 56px;
-    
+/* Product-Slide-Section */
+
+#product-slides{
+    height: 455px;
+    width: 78%;
+    border: black solid;
+    position: absolute;
+    top: 160px;
+    background-color: rgba(254, 234, 233, 1);
 }
 
-nav form input{
-    background-color: rgba(241, 241, 241, 1);
-    border-radius: 66px;
-}
-
-.nav-links{
-    display: flex;
-    justify-content: end;
+.pink-text{
+    color: rgba(255, 19, 111, 1);
 }
